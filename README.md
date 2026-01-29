@@ -52,13 +52,13 @@
 
 | Módulo | Descripción | Estado |
 |--------|-------------|--------|
-| **👥 Gestión de Clientes** | Registro de clientes, familiares y difuntos | ✅ Completo |
-| **⚰️ Servicios Funerarios** | Administración de servicios desde inicio hasta finalización | ✅ Completo |
+| **👥 Gestión de Clientes** | Registro de clientes, familiares y difuntos | 🚧 En desarrollo |
+| **⚰️ Servicios Funerarios** | Administración de servicios desde inicio hasta finalización | 🚧 En desarrollo |
 | **📦 Inventario** | Control de ataúdes, urnas, flores y otros insumos | 🚧 En desarrollo |
-| **💰 Facturación** | Sistema de cotizaciones, facturas y pagos | ✅ Completo |
-| **📊 Reportes** | Estadísticas, reportes financieros y operativos | ✅ Completo |
+| **💰 Facturación** | Sistema de cotizaciones, facturas y pagos | 🚧 En desarrollo |
+| **📊 Reportes** | Estadísticas, reportes financieros y operativos | 🚧 En desarrollo |
 | **📄 Documentos** | Generación de certificados y documentos legales | 🚧 En desarrollo |
-| **🔐 Seguridad** | Autenticación, roles y permisos | ✅ Completo |
+| **🔐 Seguridad** | Autenticación, roles y permisos | 🚧 En desarrollo |
 
 ### 🛠️ Tecnologías Utilizadas
 
