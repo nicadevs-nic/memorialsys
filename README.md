@@ -1,4 +1,4 @@
-# 🏥 Sistema de Administración de Funerarias - Frontend
+# 🏥 Sistema de Administración de Funerarias - Frontend - MemorialSys
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ## 🎯 Visión General
 
-**Funeraria Admin** es una aplicación web moderna diseñada específicamente para la gestión integral de servicios funerarios. Desarrollada con las últimas tecnologías web, proporciona una solución completa para administrar clientes, servicios, inventario, facturación y documentación legal en el sector funerario.
+**MemorialSys** es una aplicación web moderna diseñada específicamente para la gestión integral de servicios funerarios. Desarrollada con las últimas tecnologías web, proporciona una solución completa para administrar clientes, servicios, inventario, facturación y documentación legal en el sector funerario.
 
 ### 🔍 Características Clave
 - ✅ **Gestión completa de clientes y familiares**
@@ -62,12 +62,12 @@
 
 ### 🛠️ Tecnologías Utilizadas
 
-- **Frontend:** React 18 + TypeScript
-- **Estilos:** Tailwind CSS + CSS Modules
+- **Frontend:** React 18 
+- **Estilos:** Bootstrap 5.8 + ANT Design
 - **Estado:** Redux Toolkit + RTK Query
 - **Formularios:** React Hook Form + Zod
 - **Ruteo:** React Router DOM v6
-- **Iconos:** Lucide React
+- **Iconos:** ANT Design Icons
 - **Gráficos:** Recharts
 - **PDF:** React-PDF
 - **Testing:** Jest + React Testing Library
@@ -102,7 +102,6 @@ text
 - **Arquitectura Feature-Based**: Organización por dominio de negocio
 - **Componentes Reutilizables**: UI consistente en toda la aplicación
 - **Separación de Responsabilidades**: Lógica de negocio separada de presentación
-- **TypeScript First**: Tipado fuerte para mayor seguridad
 
 ---
 
@@ -118,7 +117,7 @@ text
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/funeraria-admin.git
+git clone https://github.com/nicadevs-nic/memorialsys
 cd funeraria-admin
 
 # 2. Instalar dependencias
@@ -127,7 +126,7 @@ npm install
 yarn install
 
 # 3. Configurar variables de entorno
-cp .env.example .env.local
+# cp .env.example .env.local
 # Editar .env.local con tus configuraciones
 
 # 4. Iniciar servidor de desarrollo
