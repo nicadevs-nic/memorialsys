@@ -24,7 +24,7 @@
 - [📁 Estructura de Carpetas](#-estructura-de-carpetas)
 - [🔧 Scripts Disponibles](#-scripts-disponibles)
 - [🎨 Guía de Estilos](#-guía-de-estilos)
-- [🔌 Integración API](#-integración-api)
+## - [🔌 Integración API](#-integración-api)
 - [🧪 Testing](#-testing)
 - [👥 Contribución](#-contribución)
 - [📄 Licencia](#-licencia)
@@ -445,9 +445,9 @@ chore: Tareas de mantenimiento
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 Atribuciones
-Iconos: Lucide React
+Iconos: ANT Design
 
-UI Components: Diseño personalizado con Tailwind CSS
+UI Components: Bootstrap + ANT Design
 
 Imágenes: Recursos propios con licencia comercial
 
@@ -457,7 +457,7 @@ Este software es para fines de gestión administrativa. El desarrollador no se h
 🤝 Soporte y Contacto
 Para reportar bugs, solicitar características o hacer preguntas:
 
-📧 Email: soporte@nicadevs.com
+📧 Email: info@nicadevs.com
 
 🐛 Issues: GitHub Issues
 
