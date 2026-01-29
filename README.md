@@ -96,8 +96,6 @@ funeraria-admin/
 │ ├── 📂 types/ # Tipos TypeScript
 │ └── 📂 router/ # Configuración de rutas
 
-text
-
 ### 🎯 Principios de Diseño
 - **Arquitectura Feature-Based**: Organización por dominio de negocio
 - **Componentes Reutilizables**: UI consistente en toda la aplicación
@@ -135,14 +133,14 @@ npm run dev
 yarn dev
 
 # La aplicación estará disponible en http://localhost:5173
-Variables de Entorno
-Crea un archivo .env.local en la raíz del proyecto:
+#Variables de Entorno
+#Crea un archivo .env.local en la raíz del proyecto:
 
-env
-VITE_API_URL=http://localhost:3000/api
-VITE_APP_NAME=Funeraria Admin
-VITE_DEFAULT_LOCALE=es
-VITE_ENABLE_MOCK_API=true
+#env
+#VITE_API_URL=http://localhost:3000/api
+#VITE_APP_NAME=Funeraria Admin
+#VITE_DEFAULT_LOCALE=es
+#VITE_ENABLE_MOCK_API=true
 📁 Estructura de Carpetas Detallada
 bash
 src/
